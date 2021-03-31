@@ -26,7 +26,9 @@ public class ConsumerApplication {
     };
 
 
-    //    负载均衡
+
+
+    //    负载均衡  加上这个注解之后将自动按照负载均衡调用服务
     @Bean
     @LoadBalanced
     RestTemplate restTemplate(){

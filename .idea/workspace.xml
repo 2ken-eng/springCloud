@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,6 +31,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1pvvBECN36rUD7mDfZm3xF4K1Sb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,7 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Spring Boot.ConsumerApplication">
     <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -90,6 +94,7 @@
       <workItem from="1616076243623" duration="462000" />
       <workItem from="1616414934679" duration="5060000" />
       <workItem from="1616502473993" duration="4811000" />
+      <workItem from="1617196579947" duration="1020000" />
     </task>
     <servers />
   </component>
@@ -141,6 +146,18 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="30" y="173" key="Maven.ArtifactSearchDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1616504366787" />
+    <state x="307" y="143" key="SettingsEditor" timestamp="1617197601693">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="307" y="143" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1617197601693" />
+    <state x="446" y="249" key="Vcs.Push.Dialog.v2" timestamp="1617196997149">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="249" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1617196997149" />
+    <state x="653" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617197105657">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="653" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1027@0.0.1707.1027" timestamp="1617197105657" />
     <state x="241" y="179" key="new project wizard" timestamp="1616503781390">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
