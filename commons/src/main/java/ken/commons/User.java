@@ -9,6 +9,7 @@ public class User {
     private Integer id;
     private  String UserNmae;
     private String UserPassword;
+    private String sex;
 
 
     @Override
