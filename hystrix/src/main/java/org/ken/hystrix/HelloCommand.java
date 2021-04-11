@@ -10,6 +10,7 @@ public class HelloCommand extends HystrixCommand<String> {
 
 
 
+
     RestTemplate restTemplate;
 
     public HelloCommand(Setter setter, RestTemplate restTemplate) {
