@@ -27,6 +27,8 @@ public class HystrixApplication {
 
 
         return new RestTemplate();
+
+
     }
 
 }
